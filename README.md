@@ -1,5 +1,5 @@
 # PyGame implementation of snake game
-### (still in development)
+### (in development)
 
 To run:
 
