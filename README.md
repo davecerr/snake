@@ -1,4 +1,4 @@
-# PyGame implementation of snake game
+# AI Snake with PyGame 
 ### (in development)
 
 To run:
